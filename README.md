@@ -1,3 +1,3 @@
-# Catfish SSO Server
+# Catfish SSO
 
-[logo]: https://github.com/bgoldovsky/catfish-sso/images/logo.png "Logo Catfish SSO"
+<img src="./images/logo.png" width="500">
